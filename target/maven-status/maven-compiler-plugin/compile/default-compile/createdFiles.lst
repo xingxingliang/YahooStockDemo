@@ -1,0 +1,5 @@
+com\demo\stock\model\StockRepository.class
+com\demo\stock\Response.class
+com\demo\stock\Data.class
+com\demo\stock\model\Stock.class
+com\demo\stock\DemoApplication.class
